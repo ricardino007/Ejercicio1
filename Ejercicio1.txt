@@ -18,3 +18,6 @@ FRASES QUE MOTIVAN O DIVIERTEN DE PROGRAMACION
 "Si se puede imaginar, se puede programar"
 "Unos sufren por amor, yo sufro porque no compila"
 "Comer, Dormir, Codificar, Repetir"
+
+
+Mejora del ejercicio anterior para reforzar conocimiento
